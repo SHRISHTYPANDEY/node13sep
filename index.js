@@ -10,4 +10,4 @@ app.listen(3000,(err)=>{
     } else {
         console.log("Server is running at port 3000");
     }
-})
+});
